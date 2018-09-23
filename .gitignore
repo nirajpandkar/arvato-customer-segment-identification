@@ -1,0 +1,4 @@
+arvato/
+*.csv
+.ipynb_checkpoints/
+Data_Dictionary.md
